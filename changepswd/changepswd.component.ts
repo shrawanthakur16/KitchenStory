@@ -7,6 +7,7 @@ import{Admin} from './changepswd';
   templateUrl: './changepswd.component.html',
   styleUrls: ['./changepswd.component.css']
 })
+
 export class ChangepswdComponent implements OnInit {
 new_pass:string;
 r_new_pass:string;
