@@ -8,6 +8,7 @@ import {Router} from '@angular/router';
   templateUrl: './kitchenitems.component.html',
   styleUrls: ['./kitchenitems.component.css']
 })
+
 export class KitchenitemsComponent implements OnInit {
 
   
