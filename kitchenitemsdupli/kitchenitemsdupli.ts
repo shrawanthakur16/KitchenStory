@@ -7,3 +7,4 @@ export interface Mykitchen1
     vegetablequantity:number,
     totalprice:number
 }
+
