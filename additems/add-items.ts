@@ -1,4 +1,3 @@
-
 export class Item
 {
 constructor(
@@ -8,6 +7,5 @@ constructor(
     public vegetableimg="",
     public vegetablequantity="",
     public totalprice=""
-
 ){}
 }
