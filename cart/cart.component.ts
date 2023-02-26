@@ -7,6 +7,7 @@ import {ActivatedRoute, Router} from "@angular/router";
   templateUrl: './cart.component.html',
   styleUrls: ['./cart.component.css']
 })
+
 export class CartComponent implements OnInit {
   imgWidth="100";
   imgHeight="100";
